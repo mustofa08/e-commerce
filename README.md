@@ -4,7 +4,7 @@
 
 | Nama                           | NRP          | Kelas      |
 |---------------------------------|--------------|------------|
-| MAkhmad Mustofa Solikin        | 5025211230   | PBKK (C)   |
+| Akhmad Mustofa Solikin        | 5025211230   | PBKK (C)   |
 
 ## Cara Penggunaan
 
